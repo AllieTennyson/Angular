@@ -1,2 +1,2 @@
 # Angular
-Dev projects in Angular
+Angular tutorial app
